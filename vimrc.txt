@@ -12,4 +12,5 @@ set shiftwidth=4
 
 filetype indent on
 set number
+highlight LineNr ctermfg=grey
 
